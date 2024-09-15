@@ -11,10 +11,6 @@ This repository contains a project aimed at classifying images of sports celebri
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
